@@ -1,0 +1,2 @@
+# redundancy-not-independence-single-bug-collapse
+This example demonstrates how a single software bug in a shared critical component can lead to a complete system collapse, even in a highly redundant setup with multiple instances across different data centers. It simulates a scenario where all service instances depend on the same shared component. When a specific 'poison pill' input triggers a bug
